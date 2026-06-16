@@ -1,0 +1,16 @@
+From: multi@example.com
+Subject: multipart alt
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUND42"
+
+preamble ignored
+--BOUND42
+Content-Type: text/plain
+
+Plain part: visit http://plain.example.com/x now.
+--BOUND42
+Content-Type: text/html
+
+<HTML><BODY>HTML part <A HREF="http://html.example.com/y">link</A> &amp; more</BODY></HTML>
+--BOUND42--
+epilogue ignored

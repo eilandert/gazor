@@ -1,0 +1,5 @@
+/gazor
+/dist/
+*.test
+*.out
+gen_protocol.err

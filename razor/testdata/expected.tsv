@@ -1,0 +1,13 @@
+EPH	eph/big.txt	824a0a2e5bf4647f7932452c7c9a481658f34649
+EPH	eph/huge.txt	40a7196e086d89848510e1c71bc2b1d5612a78ee
+EPH	eph/medium.txt	81eb7fffa1ab75aa3b86285c633583e86fcfdee0
+EPH	eph/tiny.txt	04193c77309c307b65445c846e2dcb92ed1f73d3
+EPH	eph/withnul.txt	62a89d30ac444e9cab007917cf59b9e1707178b3
+EPH	eph/ws.txt	27d7b2378a754164e7933d784261056b3ce94d83
+WHIP	whip/decenc.txt	d7f1364de70fb658
+WHIP	whip/hexenc.txt	
+WHIP	whip/href.txt	934676f6fd0bb658
+WHIP	whip/ip.txt	ae5533dfd63eb658
+WHIP	whip/multi.txt	550df09ea351b658,5df43394d7c1b658
+WHIP	whip/none.txt	
+WHIP	whip/url.txt	ee90f1379986b658

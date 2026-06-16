@@ -1,0 +1,10 @@
+From: news@example.com
+Subject: HTML newsletter
+Content-Type: text/html
+
+<HTML><BODY>
+<!-- tracking comment -->
+<FONT size="3">Hello &amp; welcome!</FONT>
+Special chars: &copy; &nbsp; &eacute; &lt;tag&gt;
+<A HREF="http://click.example.com/track?id=42">Click here</A>
+</BODY></HTML>

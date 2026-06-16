@@ -1,0 +1,6 @@
+From: deals@example.com
+Subject: base64 body
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+
+QnV5IG5vdyBhdCBodHRwOi8vYjY0LmV4YW1wbGUuY29tL29mZmVyIGFuZCB3aW4gYSBmcmVlIHByaXplIHRvZGF5LgpDbGljayBodHRwOi8vc2Vjb25kLmV4YW1wbGUub3JnL2dvIGZvciB0aGUgYm9udXMgcm91bmQuCg==
